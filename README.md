@@ -14,7 +14,7 @@ Trust, Metamask, BinanceChain, Phantom, TronLink, Ronin, Exodus, Coin98, Authent
 
 🌐 Browser
 
-Chrome, Edge, Brave, Opera, OperaGX, OperaNeon, Yandex
+Chrome, Edge, Brave, Opera, OperaGX, OperaNeon, Yandex.
 
 ✅ Passwords (From all browsers to one file)
 ✅ Cookies (Sort each browser and profile in a separate file)
